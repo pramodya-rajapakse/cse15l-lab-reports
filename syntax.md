@@ -15,3 +15,5 @@ Horizontal rule
 
 ---
 This is `Inline code`
+
+![Screenshot](screenshot.png)
