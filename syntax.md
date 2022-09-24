@@ -10,5 +10,6 @@ This is a link to Google: [Link](https://www.google.com/)
 1. One
 2. Two 
 3. Three
-Horizontal rule ---
-This is 'Inline code' 
+Horizontal rule
+---
+This is `Inline code`
