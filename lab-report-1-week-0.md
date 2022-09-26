@@ -1,1 +1,1 @@
-Hello, world!
+![Screenshot](screenshot.png)
