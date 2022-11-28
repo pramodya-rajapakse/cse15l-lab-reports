@@ -223,3 +223,5 @@ LINE 73 `echo -e  "\n==> Final Grade: $GRADE/100"`
 
 error code: 0, stdout: ==> Final Grade: $GRADE/100, stderr: 
 
+---
+*Credit: Anh Pham. I just wanted to give credit to the person whose script I graded for Lab 8, it gave me ideas on how to make the grading logic more efficient*
