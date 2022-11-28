@@ -9,7 +9,7 @@ JUNIT_PATH=lib/junit-4.13.2.jar
 
 REPO_PATH=student-submission
 TEST_FILE=ListExamples.java
-GRADE_FILE=TestList
+GRADE_FILE=TestListExamples
 
 TEST_COUNT=2
 GRADE=0
